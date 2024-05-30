@@ -13,7 +13,7 @@ void sacar(double valor) { //início do bloco método
 		if (this.saldo >= valor) { //início do bloco if
 				this.saldo -= valor;
 		} //fim do bloco if
-} //fim do bloco do método				
+} //fim do bloco do método
 ```
 
 ### UTILIZANDO ESPAÇOS
@@ -29,5 +29,5 @@ def sacar(self, valor: float) None: #início do bloco método
 					
 		#fim do bloco if
 		
-#fim do bloco método					
+#fim do bloco método
 ```
